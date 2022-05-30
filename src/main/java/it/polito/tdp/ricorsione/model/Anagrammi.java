@@ -37,7 +37,7 @@ public class Anagrammi {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Anagrammi main = new Anagrammi();
-		main.anagramma("ABCD");
+		main.anagramma("abcd");
 	}
 
 }
